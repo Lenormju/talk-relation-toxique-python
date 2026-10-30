@@ -6,6 +6,17 @@
   display: inline-block;
   color: AliceBlue;
 }
+.reveal section.credits ul {
+  columns: 2;
+  column-gap: 40px;
+  margin: 0;
+}
+.reveal section.credits li {
+  font-size: 0.55em;
+  line-height: 1.25;
+  break-inside: avoid;
+  margin-bottom: 6px;
+}
 </style>
 
 # Ma relation toxique avec Python
@@ -328,6 +339,34 @@ Python n'a plus le monopole du haut niveau, puisque maintenant y'a le prompt-cod
 🤷  <!-- .element: style="font-size:8em"; class="fragment" -->
 
 🤔 <!-- .element: style="font-size:8em"; class="fragment" -->
+
+---
+
+## Crédits images et photos
+
+<!-- .slide: class="credits" -->
+
+* **Randall Munroe** — xkcd #353 « Python » — [xkcd.com](https://xkcd.com/353/) — CC BY-NC 2.5
+* **Mateo21 (Mathieu Nebra)** — Site du Zéro v3 — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Site_du_Z%C3%A9ro_v3.png) — CC BY-SA 3.0
+* **Conan.io developers** — Logo Conan — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Conan_package_manager_logo.png) — MIT
+* **Les auteurs de PyCAM** — Captures de PyCAM — [pycam.sourceforge.net](https://pycam.sourceforge.net/) — GPLv3
+* **nedbat, Petr Viktorin, Hugo van Kemenade** — Versions de Python — [devguide.python.org](https://devguide.python.org/versions/) — CC0
+* **TIOBE Software BV** — Index TIOBE — [tiobe.com](https://www.tiobe.com/tiobe-index/) — © TIOBE
+* **EuroPython Conference** — Photo « 3K6A4094 » — [Flickr](https://www.flickr.com/photos/europython/55514586938/) — CC BY-NC-SA 4.0
+* **Marie Berbel (Kaizen Solutions)** — Photo du portrait (mon logo) — © Kaizen Solutions
+* **Claude (Anthropic)** — Schémas des microservices — généré par IA
+* **Antonio Guillem** — Photo « Distracted Boyfriend » (mème) — [Wikipedia](https://en.wikipedia.org/wiki/Distracted_boyfriend) — © Antonio Guillem
+* **NBC / Universal Television** — *The Office*, « They're the same picture » (mème) — © NBC Universal
+* **abby-design** — Clipart d'escargot (mème) — [Vecteezy](https://www.vecteezy.com/vector-art/19943253-spring-snail-cartoon-colored-clipart-illustration) — Vecteezy Free License
+* **Harsha et Animesh (MyCodeSchool), freeCodeCamp.org** — Miniature « Pointers in C / C++ » — [YouTube](https://www.youtube.com/watch?v=zuegQmMdy8M) — © tous droits réservés
+* **Rails World / 37signals** — Keynote de DHH, Rails World 2026 — [YouTube](https://www.youtube.com/watch?v=vDjW_dRyKXY)
+* **Fabrice Brochain (CommentCaMarche)** — Boîte de dialogue Windows — [commentcamarche.net](https://www.commentcamarche.net/informatique/windows/27477-reparer-ou-reinitialiser-une-application-windows-qui-plante/) — interface © Microsoft
+* **PyChina** — Logo PyCon China — [pychina.org](https://pychina.org/) — © PyChina
+* **Les auteurs de Poetry** — Logo Poetry — [python-poetry.org](https://python-poetry.org/) — © Poetry
+* **Python Software Foundation** — Logo Python — [python.org](https://www.python.org/) — © PSF
+* **Travian Games GmbH** — Capture de Travian — [Wikipedia](https://en.wikipedia.org/wiki/File:Map_view_resource_travian.jpg) — © Travian Games
+* **Équipe de ff7.fr, Square Enix** — Capture de ff7.fr — [ff7.fr](https://www.ff7.fr/) — © leurs ayants droit
+* **GitHub** — Capture de python/cpython — [github.com](https://github.com/python/cpython/issues) — © GitHub
 
 ---
 
