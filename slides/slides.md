@@ -200,18 +200,18 @@ Puis j'ai changé de boulot, pour bosser dans la lutte anti-phishing. Un énorme
 
 😢 <!-- .element: style="font-size:3em"; class="fragment" -->
 
-* venv  <!-- .element: class="fragment" -->
-* walrus  <!-- .element: class="fragment" -->
-* GIL  <!-- .element: class="fragment" -->
-* async  <!-- .element: class="fragment" -->
-* import package vs distrib  <!-- .element: class="fragment" -->
-* deploy on Windows  <!-- .element: class="fragment" -->
-* Conda  <!-- .element: class="fragment" -->
+* perf: CPU, RAM, GIL, free-threding/JIT, ...  <!-- .element: class="fragment" -->
+* lang: walrus, async, typing, import, exceptions, ...  <!-- .element: class="fragment" -->
+* tool: venv, linter, typechecker, project manager, ...  <!-- .element: class="fragment" -->
+* ops: packaging, Windows, mobile, web, Conda et Torch, ...  <!-- .element: class="fragment" -->
+* Python 2 ...  <!-- .element: class="fragment" -->
+* "There should be one-- and preferably only one --obvious way to do it." ...  <!-- .element: class="fragment" -->
+* Python = C et C++ et Fortran et ...  <!-- .element: class="fragment" -->
 * ...  <!-- .element: class="fragment" -->
 
 Notes:
 bah Python c'est tout pourri !
-Et encore, j'ai pas parlé des venv, merci uv ! Ni du walrus operator (fine by me, mais a pait péter un cable à la communauté et à Guido)
+Et encore, j'ai pas parlé des venv, merci uv ! Ni du walrus operator (fine by me, mais a fait péter un cable à la communauté et à Guido)
 Ni de la GIL qui empêche le multi-threading. Ni du split causé par l'async. Ni de la distinction entre import package et distribution package. Ni du déploiement sur Windows. Ni de Conda.
 
 ---
@@ -256,7 +256,7 @@ Et puis y'a le meetup, que je découvre fin 2022, mais dont j'apprécie énormé
 
 ## Choix
 
-> Ce n'est pas le programmeur qui choisit son langage, c'est le langage qui choisit son programmeur. - Olivander
+> Ce n'est pas le programmeur qui choisit son langage, c'est le langage qui choisit son programmeur. - 0L1v4nd3r
 
 <!-- .element: class="fragment" -->
 
@@ -325,13 +325,17 @@ Python n'a plus le monopole du haut niveau, puisque maintenant y'a le prompt-cod
 
 ## Conclusion
 
-🤷  <!-- .element: style="font-size:12em" -->
+🤷  <!-- .element: style="font-size:8em"; class="fragment" -->
+
+🤔 <!-- .element: style="font-size:8em"; class="fragment" -->
 
 ---
 
-## Slides
+## Des questions ?
 
 https://github.com/Lenormju/talk-relation-toxique-python
+
+![](./images/qr-code-github-slides.png)  <!-- .element: width="900px" -->
 
 ---
 
