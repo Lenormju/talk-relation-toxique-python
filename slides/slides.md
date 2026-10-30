@@ -17,6 +17,14 @@
   break-inside: avoid;
   margin-bottom: 6px;
 }
+.reveal section.extra ul {
+  margin: 0;
+}
+.reveal section.extra li {
+  font-size: 0.75em;
+  line-height: 1.3;
+  margin-bottom: 14px;
+}
 </style>
 
 # Ma relation toxique avec Python
@@ -380,13 +388,16 @@ https://github.com/Lenormju/talk-relation-toxique-python
 
 ## Extra
 
-* https://github.com/satwikkansal/wtfpython : une collection de snippets affreux
-* chaque année à EuroPython il font un quiz dément
-* https://cameron.rs/blog/python-sucks/ mais https://wordsandbuttons.online/outperforming_everything_with_anything.html
-* Typing situation by guido https://youtu.be/_SRFZODQtxw
-* Abeba NGWE - My toxic relationship with AI : https://www.youtube.com/watch?v=mm483y0Y0AM
-* Reddit "what do you hate most about python"
-* podcast Axopen : l'avenir des langages
+<!-- .slide: class="extra" -->
+
+* **Satwik Kansal** — wtfpython : une collection de snippets affreux — [github.com](https://github.com/satwikkansal/wtfpython)
+* **EuroPython** — chaque année, un quiz dément
+* **Cameron K.** — Python sucks — [cameron.rs](https://cameron.rs/blog/python-sucks/)
+* **Oleksandr Kaleniuk** — Outperforming everything with anything — [wordsandbuttons.online](https://wordsandbuttons.online/outperforming_everything_with_anything.html)
+* **Guido van Rossum** — Typing situation — [YouTube](https://youtu.be/_SRFZODQtxw)
+* **Abeba NGWE** — My toxic relationship with AI — [YouTube](https://www.youtube.com/watch?v=mm483y0Y0AM)
+* **r/Python (Reddit)** — « What do you hate most about Python? » — [reddit.com](https://www.reddit.com/r/Python/comments/w7lpxi/what_do_you_hate_most_about_python/)
+* **Axopen** — Podcast « Langages de programmation : quel avenir face à l'IA ? » — [axopen.com](https://www.axopen.com/podcast/langages-de-programmation-quel-avenir-face-a-lia)
 
 ---
 
