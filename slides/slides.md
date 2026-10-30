@@ -170,8 +170,8 @@ On avait d'énormes problème de qualité : qualité de code, qualité de test, 
 
 -v-
 
-![](./images/microservices_architecture_theorique.png)  <!-- .element: width="900px"; class="fragment" -->
-![](./images/microservices_architecture_reelle.png)  <!-- .element: width="900px"; class="fragment" -->
+![](./images/microservices_architecture_theorique.png)  <!-- .element: style="height: 480px; margin: 0 10px;" class="fragment" -->
+![](./images/microservices_architecture_reelle.png)  <!-- .element: style="height: 480px; margin: 0 10px;" class="fragment" -->
 
 Notes:
 Puis j'ai changé de boulot, et j'ai travaillé dans la métrologie des batteries électriques. Encore du Python. Application micro-services (dessin archi théorique versus réelle), problème de perf, bug d'import, trop grosse conso de RAM pour du semi-embarqué, couplage pénible avec l'équipe front en JS, ...
@@ -207,8 +207,8 @@ Puis j'ai changé de boulot, et j'ai bossé dans la télémaintenance médicale.
 
 -v-
 
-![](./images/microservices_architecture_theorique.png)  <!-- .element: width="900px"; class="fragment" -->
-![](./images/microservices_architecture_reelle.png)  <!-- .element: width="900px"; class="fragment" -->
+![](./images/microservices_architecture_theorique.png)  <!-- .element: style="height: 480px; margin: 0 10px;" class="fragment" -->
+![](./images/microservices_architecture_reelle.png)  <!-- .element: style="height: 480px; margin: 0 10px;" class="fragment" -->
 
 Notes:
 Puis j'ai changé de boulot, pour bosser dans la lutte anti-phishing. Un énorme tas de spaghetti micro-services en Python, avec la roue réinventée, des énormes problèmes de perf, de stabilité, de testabilité, de typage, de déploiement, ...
@@ -362,7 +362,8 @@ Python n'a plus le monopole du haut niveau, puisque maintenant y'a le prompt-cod
 * **TIOBE Software BV** — Index TIOBE — [tiobe.com](https://www.tiobe.com/tiobe-index/) — © TIOBE
 * **EuroPython Conference** — Photo « 3K6A4094 » — [Flickr](https://www.flickr.com/photos/europython/55514586938/) — CC BY-NC-SA 4.0
 * **Marie Berbel (Kaizen Solutions)** — Photo du portrait (mon logo) — © Kaizen Solutions
-* **Claude (Anthropic)** — Schémas des microservices — généré par IA
+* **ByteByteGo** — Schéma d'architecture micro-services « théorique » — [bytebytego.com](https://bytebytego.com/guides/what-does-a-typical-microservice-architecture-look-like/) — CC BY-NC-ND 4.0
+* **Julien Lenormand** — Schéma d'architecture micro-services « réelle » — fait avec Excalidraw
 * **Antonio Guillem** — Photo « Distracted Boyfriend » (mème) — [Wikipedia](https://en.wikipedia.org/wiki/Distracted_boyfriend) — © Antonio Guillem
 * **NBC / Universal Television** — *The Office*, « They're the same picture » (mème) — © NBC Universal
 * **abby-design** — Clipart d'escargot (mème) — [Vecteezy](https://www.vecteezy.com/vector-art/19943253-spring-snail-cartoon-colored-clipart-illustration) — Vecteezy Free License
