@@ -170,8 +170,8 @@ On avait d'énormes problème de qualité : qualité de code, qualité de test, 
 
 -v-
 
-![](./images/microservices_architecture_theorique.png)  <!-- .element: style="height: 480px; margin: 0 10px;" class="fragment" -->
-![](./images/microservices_architecture_reelle.png)  <!-- .element: style="height: 480px; margin: 0 10px;" class="fragment" -->
+![](./images/microservices_architecture_theorique.png)  <!-- .element: style="height: 900px; margin: 0 10px;" class="fragment" -->
+![](./images/microservices_architecture_reelle.png)  <!-- .element: style="height: 900px; margin: 0 10px;" class="fragment" -->
 
 Notes:
 Puis j'ai changé de boulot, et j'ai travaillé dans la métrologie des batteries électriques. Encore du Python. Application micro-services (dessin archi théorique versus réelle), problème de perf, bug d'import, trop grosse conso de RAM pour du semi-embarqué, couplage pénible avec l'équipe front en JS, ...
@@ -207,8 +207,8 @@ Puis j'ai changé de boulot, et j'ai bossé dans la télémaintenance médicale.
 
 -v-
 
-![](./images/microservices_architecture_theorique.png)  <!-- .element: style="height: 480px; margin: 0 10px;" class="fragment" -->
-![](./images/microservices_architecture_reelle.png)  <!-- .element: style="height: 480px; margin: 0 10px;" class="fragment" -->
+![](./images/microservices_architecture_theorique.png)  <!-- .element: style="height: 900px; margin: 0 10px;" class="fragment" -->
+![](./images/microservices_architecture_reelle.png)  <!-- .element: style="height: 900px; margin: 0 10px;" class="fragment" -->
 
 Notes:
 Puis j'ai changé de boulot, pour bosser dans la lutte anti-phishing. Un énorme tas de spaghetti micro-services en Python, avec la roue réinventée, des énormes problèmes de perf, de stabilité, de testabilité, de typage, de déploiement, ...
@@ -219,10 +219,10 @@ Puis j'ai changé de boulot, pour bosser dans la lutte anti-phishing. Un énorme
 
 😢 <!-- .element: style="font-size:3em"; class="fragment" -->
 
-* perf: CPU, RAM, GIL, free-threding/JIT, ...  <!-- .element: class="fragment" -->
+* perf: CPU, RAM, GIL, free-threading/JIT, ...  <!-- .element: class="fragment" -->
 * lang: walrus, async, typing, import, exceptions, ...  <!-- .element: class="fragment" -->
 * tool: venv, linter, typechecker, project manager, ...  <!-- .element: class="fragment" -->
-* ops: packaging, Windows, mobile, web, Conda et Torch, ...  <!-- .element: class="fragment" -->
+* ops: packaging, Windows, mobile, front, Conda et Torch, ...  <!-- .element: class="fragment" -->
 * Python 2 ...  <!-- .element: class="fragment" -->
 * "There should be one-- and preferably only one --obvious way to do it." ...  <!-- .element: class="fragment" -->
 * Python = C et C++ et Fortran et ...  <!-- .element: class="fragment" -->
@@ -258,7 +258,7 @@ Et vient le moment communauté. J'ai toujours trouvé du support, des ressources
 
 -v-
 
-![](./images/moi_europython_ange.jpg)  <!-- .element: width="900px"; class="fragment" -->
+![](./images/moi_europython_ange.jpg)  <!-- .element: width="900px" -->
 
 Notes:
 Et les PyCon sont parmi mes conférences préférées, que ce soit en terme d'ambiance, de diversité des personnes et des métiers car Python est un grand langage. J'y ai donné certaines des conférences dont je suis le plus fier.
@@ -303,7 +303,7 @@ Et si on n'avait plus besoin de cerveau pour coder ????
 
 🤖 <!-- .element: style="font-size:6em" -->
 
-![](./images/tagline_linkedin.png)  <!-- .element: width="1300px"; class="fragment" -->
+![](./images/tagline_linkedin.png)  <!-- .element: width="1300px" -->
 
 Notes:
 L'arrivée de l'IA. Même si j'ai été rapidement convaincu par ses capacités, progrès, et l'importance du changement en cours, je n'ai pas pris la vague tout de suite, j'ai attendu un peu.
@@ -315,24 +315,22 @@ Je vais peut-être devoir mettre à jour ma tagline LinkedIn.
 
 -v-
 
-![](./images/dhh_keynote_ror.jpg)  <!-- .element: width="1300px"; class="fragment" -->
+![](./images/dhh_keynote_ror.jpg)  <!-- .element: width="1300px" -->
 
 Notes:
 Y'a eu récemment une keynote à la Ruby on Rails par son créateur DHH, qui déjà très controversé, a balancé de l'huile sur le feu en racontant qu'il avait complètement arrêté de faire du RoR, et à la place "Rust dans le backend, native pour le front".
 
 -v-
 
-![](./images/jealous_girlfriend.jpg)  <!-- .element: width="1300px"; class="fragment" -->
+![](./images/jealous_girlfriend.jpg)  <!-- .element: width="1300px" -->
 
 -v-
 
-![](./images/python_snail.jpg)  <!-- .element: width="900px"; class="fragment" -->
+![](./images/python_snail.jpg)  <!-- .element: width="900px" -->
 
 ---
 
 ## Evolution
-
--v-
 
 ![](./images/tiobe_september_2026.png)  <!-- .element: width="1800px"; class="fragment" -->
 
@@ -377,13 +375,6 @@ Python n'a plus le monopole du haut niveau, puisque maintenant y'a le prompt-cod
 * **Équipe de ff7.fr, Square Enix** — Capture de ff7.fr — [ff7.fr](https://www.ff7.fr/) — © leurs ayants droit
 * **GitHub** — Capture de python/cpython — [github.com](https://github.com/python/cpython/issues) — © GitHub
 
----
-
-## Des questions ?
-
-https://github.com/Lenormju/talk-relation-toxique-python
-
-![](./images/qr-code-github-slides.png)  <!-- .element: width="900px" -->
 
 ---
 
@@ -399,6 +390,14 @@ https://github.com/Lenormju/talk-relation-toxique-python
 * **Abeba NGWE** — My toxic relationship with AI — [YouTube](https://www.youtube.com/watch?v=mm483y0Y0AM)
 * **r/Python (Reddit)** — « What do you hate most about Python? » — [reddit.com](https://www.reddit.com/r/Python/comments/w7lpxi/what_do_you_hate_most_about_python/)
 * **Axopen** — Podcast « Langages de programmation : quel avenir face à l'IA ? » — [axopen.com](https://www.axopen.com/podcast/langages-de-programmation-quel-avenir-face-a-lia)
+
+---
+
+## Des questions ?
+
+https://github.com/Lenormju/talk-relation-toxique-python
+
+![](./images/qr-code-github-slides.png)  <!-- .element: width="900px" -->
 
 ---
 
