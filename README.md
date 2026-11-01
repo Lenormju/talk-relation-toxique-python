@@ -3,6 +3,7 @@
 Slides hébergées sur GitHub :
 
 * [main](https://lenormju.github.io/talk-relation-toxique-python/index.html)
+* [PDF de la PyCon France 2026](https://lenormju.github.io/talk-relation-toxique-python/slides-pyconfr-2026.pdf)
 
 Python a été mon premier amour (en termes de langage de programmation).  
 Et les étapes se sont enchaînées naturellement (premier stage, premier CDI, première PyCon, ...).
