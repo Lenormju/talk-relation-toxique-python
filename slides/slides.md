@@ -108,6 +108,8 @@ Je voulais tout faire avec Python.
 
 -v-
 
+Les études :
+
 * Ada  <!-- .element: class="fragment" -->
 * PHP  <!-- .element: class="fragment" -->
 * C  <!-- .element: class="fragment" -->
@@ -148,6 +150,8 @@ Bref, plein de nouvelles rencontres, mais tout me ramenait toujours à Python.
 
 -v-
 
+Fabrication assistée par Ordinateur
+
 ![](./images/pycam-screenshot-processing-settings.png)  <!-- .element: width="900px"; class="fragment" -->
 ![](./images/pycam-screenshot-finishing-operation.png)  <!-- .element: width="900px"; class="fragment" -->
 
@@ -158,6 +162,8 @@ https://pycam.sourceforge.net/img/screenshot-processing-settings.png
 https://pycam.sourceforge.net/img/screenshot-finishing-operation.png
 
 -v-
+
+Sûreté nucléaire ...
 
 ![](./images/exe_cesse_de_fonctionner.jpg)  <!-- .element: width="900px"; class="fragment" -->
 
@@ -185,8 +191,8 @@ Puis j'ai changé de boulot, et j'ai travaillé dans les ERPs. Encore en Python.
 
 -v-
 
-![](./images/poetry.webp)  <!-- .element: width="900px"; class="fragment" -->
 ![](./images/Conan.webp)  <!-- .element: width="500px"; class="fragment" -->
+![](./images/poetry.webp)  <!-- .element: width="900px"; class="fragment" -->
 
 Notes:
 Puis j'ai changé de boulot, et j'ai travaillé dans la sûreté aéro-portuaire. Théoriquement du C++, mais avec beaucoup de Python pour le build, la CI, le tooling, les tests, ... On travaillait sur des environnements air-gaped, donc sans accès à PyPI. Le "batteries included" de Python, vrai en 2000, l'est moins en 2022. Je ne m'étonne plus que tout le monde utilise requests au lieu de urllib. Et que packager du Python pour une installation Offline soit si compliqué. Et que le tooling n'est pas mature pour le SBOM.
@@ -287,10 +293,13 @@ Ca s'est auto-entretenu. J'ai parfois codé dans d'autres langages, mais toujour
 
 -v-
 
+Des envies d'aller voir ailleurs :
+
 * Eiffel  <!-- .element: class="fragment" -->
 * Rust  <!-- .element: class="fragment" -->
 * Clojure  <!-- .element: class="fragment" -->
 * TS  <!-- .element: class="fragment" -->
+* Erlang  <!-- .element: class="fragment" -->
 * ...  <!-- .element: class="fragment" -->
 
 Notes:
@@ -299,11 +308,11 @@ Et si on n'avait plus besoin de cerveau pour coder ????
 
 ---
 
-## IA
+## La révolution IA
 
 🤖 <!-- .element: style="font-size:6em" -->
 
-![](./images/tagline_linkedin.png)  <!-- .element: width="1300px" -->
+![](./images/tagline_linkedin.png)  <!-- .element: width="1300px" class="fragment" -->
 
 Notes:
 L'arrivée de l'IA. Même si j'ai été rapidement convaincu par ses capacités, progrès, et l'importance du changement en cours, je n'ai pas pris la vague tout de suite, j'ai attendu un peu.
